@@ -1,0 +1,26 @@
+{
+  "name": "pkg-preper",
+  "version": "0.0.1",
+  "description": "Package Preparer",
+  "main": "lib/pkg-preper.js",
+  "scripts": {},
+  "keywords": [],
+  "files": [
+    "lib"
+  ],
+  "author": "Joel Chen <joel123@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jchip/pkg-preper.git"
+  },
+  "license": "Artistic-2.0",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cacache": "^11.2.0",
+    "mississippi": "^3.0.0",
+    "npm-packlist": "^1.1.11",
+    "opfs": "^1.0.6",
+    "tar": "^4.4.6",
+    "visual-exec": "^0.1.0"
+  }
+}
